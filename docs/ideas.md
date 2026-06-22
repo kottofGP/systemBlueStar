@@ -1,1 +1,6 @@
-.
+- Botón de pánico
+- Corte de motor
+- Reporte de combustible
+- Control de mantenimiento
+- Alertas por velocidad
+- Aplicación Android.

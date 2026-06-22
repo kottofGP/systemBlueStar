@@ -2,9 +2,11 @@ GPS
  ↓
 Servidor TCP
  ↓
-Base de Datos
+Procesador de protocolos
  ↓
-API
+Base de datos
+ ↓
+API REST
  ↓
 Panel Web
  ↓
