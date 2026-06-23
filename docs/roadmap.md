@@ -1,24 +1,48 @@
-FASE 1
-[ ] Aprender sockets TCP
-[ ] Servidor TCP en C++
-[ ] Recibir conexiones
+# Roadmap de systemBlueStar
 
-FASE 2
-[ ] Procesar paquetes GPS
-[ ] Guardar coordenadas
+## Fase 1 - Fundamentos
 
-FASE 3
-[ ] PostgreSQL
-[ ] API REST
+- Estructura del proyecto.
+- Configuración de Git.
+- Documentación inicial.
+- Servidor TCP básico.
 
-FASE 4
-[ ] Leaflet
-[ ] Mapa en tiempo real
+## Fase 2 - Recepción GPS
 
-FASE 5
-[ ] Geocercas
-[ ] Alertas
-[ ] Historial
+- Aceptar conexiones GPS.
+- Recibir paquetes.
+- Registrar logs.
+- Identificar protocolos.
 
-FASE 6
-[ ] Multiempresa.
+## Fase 3 - Procesamiento
+
+- Parseo de coordenadas.
+- Validación de datos.
+- Gestión de eventos.
+
+## Fase 4 - Base de datos
+
+- Vehículos.
+- Usuarios.
+- Historial.
+- Eventos.
+
+## Fase 5 - API
+
+- Consultas de ubicación.
+- Historial.
+- Administración.
+
+## Fase 6 - Frontend
+
+- Mapa en tiempo real.
+- Geocercas.
+- Historial de recorridos.
+- Gestión de flotas.
+
+## Fase 7 - Producción
+
+- Optimización.
+- Seguridad.
+- Pruebas.
+- Despliegue.
