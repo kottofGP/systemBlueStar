@@ -1,10 +1,34 @@
+# C++
 *.o
 *.out
 *.exe
 
+# Builds
 build/
 bin/
+servidor/build/
+servidor/bin/
 
+# Node
 node_modules/
 
+# Env
 .env
+
+# SQLite / GPS data
+*.db
+*.sqlite
+*.sqlite3
+logs/
+
+# system / editor
+*.swp
+*.swo
+*~
+.DS_Store
+
+# CMake (si lo usas después)
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
